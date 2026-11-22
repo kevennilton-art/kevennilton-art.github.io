@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kevennilton_art.agenda",
+        "sha256_cert_fingerprints": ["B4:4A:89:8B:95:4C:DE:46:CD:D5:DC:40:3E:D5:05:FA:0D:BD:13:03:CC:AF:95:B0:D3:D0:7D:18:53:71:75:F2"]
+      }
+    }]
